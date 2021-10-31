@@ -6,9 +6,9 @@ import java.awt.event.*;
 public class GUI09 extends JFrame implements ActionListener
 {
     // Step 1 : create JLabel variable;
-    private JLabel label;
-    private JButton button;
-    private JButton button2;
+    JLabel label;
+    JButton button;
+    JButton button2;
     boolean on = true;
     // constructor
     public GUI09()
